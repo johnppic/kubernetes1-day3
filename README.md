@@ -77,7 +77,7 @@ Links
 deploy wordpress with mysql backend
 -----------------------------------
 
-Create a secret that contains the contents of the mysql-pass file. Feel free to change the passoword.
+Create a secret that contains the contents of the mysql-pass file. Feel free to change the password.
 
     kubectl create secret generic mysql-pass --from-file=./password
 
