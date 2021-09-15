@@ -45,7 +45,7 @@ A ConfigMap allows you to decouple environment-specific configuration from your 
 
 Links
 * [Configmap](https://kubernetes.io/docs/concepts/configuration/configmap/)
-* [Configure a Pod Configmap](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/)
+* [Configure a Pod Configmap](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/#define-container-environment-variables-using-configmap-data)
 
 secrets
 -------
